@@ -1,0 +1,926 @@
+﻿DATE,FREQUENCY,REGION,SITE,VALUE,,S.No. ,Year,Month,dewptn,hum,temppm,rainfall
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.76,,1,2005,Jan,7.87,65.14,13.47,13.9
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71, ,2,2005,Feb,9.99,59.87,16.84,35.7
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71,,3,2005,Mar,14.01,51.52,23.68,29.9
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71,,4,2005,Apr,8.44,23.84,28.6,2.7
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",4.15,,5,2005,May,12.87,25.63,32.27,7.6
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71,,6,2005,Jun,19.23,39.25,33.98,53.9
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71,,7,2005,Jul,25.68,72.84,30.17,175.6
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.21,,8,2005,Aug,23.87,59.12,31.41,52.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71,,9,2005,Sep,23.68,70.43,28.78,146.7
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71,,10,2005,Oct,16.3,55.35,25.07,0
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.72,,11,2005,Nov,9.75,50.38,19.51,0.8
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.71,,12,2005,Dec,6.07,59.71,13.68,0
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.54,,13,2006,Jan,6.13,56.57,13.98,2.3
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,14,2006,Feb,11.83,52.64,21.12,0.1
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,15,2006,Mar,12.34,49.43,22.52,30.4
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,16,2006,Apr,11.34,27.41,29.58,0.6
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.85,,17,2006,May,20.08,41.41,33.13,24.8
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,18,2006,Jun,20.75,47.87,32.07,45.4
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,19,2006,Jul,25.69,69.66,30.97,135.2
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.3,,20,2006,Aug,24.71,65.57,30.55,32.1
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,21,2006,Sep,22.92,65.36,29.11,49.9
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,22,2006,Oct,17.79,56.28,26.05,3.8
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.26,,23,2006,Nov,13.53,62.46,20.21,1.2
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.48,,24,2006,Dec,9.2,63.83,15.46,5.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.43,,25,2007,Jan,6.82,62.91,13.39,0.5
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,26,2007,Feb,12.23,68.4,17.62,76
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,27,2007,Mar,13.11,54.2,21.74,40.1
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,28,2007,Apr,14.19,30.99,30.45,2
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.83,,29,2007,May,18.29,38.74,31.76,12.4
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,30,2007,Jun,22.88,52.56,32.88,88.7
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,31,2007,Jul,25.55,67.56,31.13,82
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.83,,32,2007,Aug,25.6,70.11,30.6,87.9
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,33,2007,Sep,23.61,67.11,29.17,55.2
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,34,2007,Oct,14.05,49.63,24.45,0.1
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.03,,35,2007,Nov,13.43,66.46,19.46,0.3
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.28,,36,2007,Dec,7.23,58.78,14.55,1.4
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.49,,37,2008,Jan,6.8,61.46,12.93,2.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,38,2008,Feb,8.19,58.23,15.56,0.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,39,2008,Mar,13.69,46.22,25,0.6
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,40,2008,Apr,12.55,33.07,28.56,13.4
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.83,,41,2008,May,18.32,44.9,30.25,72.9
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,42,2008,Jun,24.65,67.11,30.24,193.5
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,43,2008,Jul,26.29,73.16,30.72,124.3
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",1.66,,44,2008,Aug,25.49,74.92,24.59,174.2
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,45,2008,Sep,23.26,69.1,28.5,114.5
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,46,2008,Oct,19.29,60.9,26.45,8.4
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,47,2008,Nov,13.08,63.26,19.59,5.5
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.99,,48,2008,Dec,10.7,67.4,16.21,0.2
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.54,,49,2009,Jan,9.68,68.07,14.83,4.1
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,50,2009,Feb,10.42,57.61,18.29,5.9
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,51,2009,Mar,12.49,45.63,23.45,5.7
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,52,2009,Apr,11.26,26.59,29.57,11.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",4.51,,53,2009,May,18.28,37,32.35,17.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,54,2009,Jun,19.5,35.11,34.56,15.2
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,55,2009,Jul,25.06,61.12,32.03,106.4
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.08,,56,2009,Aug,25.49,67.91,30.91,63.8
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,57,2009,Sep,23.57,39.45,28.88,160.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,58,2009,Oct,15.58,52.12,25.07,2.5
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.88,,59,2009,Nov,12.52,60.72,19.28,1.1
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.25,,60,2009,Dec,9.5,66.72,14.99,0.4
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3,,61,2010,Jan,9.83,79.09,12.86,4.8
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.13,,62,2010,Feb,11.96,64.71,18.13,10.2
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.13,,63,2010,Mar,15.41,49.47,25.93,0.5
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.13,,64,2010,Apr,13.04,23.5,32.76,0.8
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.57,,65,2010,May,16.81,28.86,34.52,5.9
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.68,,66,2010,Jun,19.89,36.65,34.27,29.1
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.63,,67,2010,Jul,26.03,70.55,31.03,189.3
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.13,,68,2010,Aug,26.26,78.48,29.53,198.5
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.13,,69,2010,Sep,24.35,79.21,27.66,183.9
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.13,,70,2010,Oct,9.95,85.52,11.83,1.1
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",1.78,,71,2010,Nov,8.49,78.68,11.29,3.5
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",3.13,,72,2010,Dec,11.16,77.01,14.81,12.8
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",1.79,,73,2011,Jan,7.29,67.89,12.32,0.7
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,74,2011,Feb,11.64,67.57,17.02,26.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,75,2011,Mar,13.93,54.02,24.81,6.9
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,76,2011,Apr,13.96,37.43,27.77,8.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.7,,77,2011,May,18.83,37.67,32.93,28.7
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,78,2011,Jun,22.95,56.69,32.01,94.4
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,79,2011,Jul,25.69,70.27,30.63,85
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",1.6,,80,2011,Aug,25.87,75.16,28.19,127.3
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,81,2011,Sep,24.28,71.15,29.07,133.1
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,82,2011,Oct,18.19,58.94,25.6,0
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.7,,83,2011,Nov,15.03,66.8,20.8,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A11338', 'name': 'Nagali Rajapur Pz'}",2.19,,84,2011,Dec,9.37,69.25,14.48,0.4
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.32,,85,2005,Jan,7.87,65.14,13.47,13.9
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,86,2005,Feb,9.99,59.87,16.84,35.7
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,87,2005,Mar,14.01,51.52,23.68,29.9
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,88,2005,Apr,8.44,23.84,28.6,2.7
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.82,,89,2005,May,12.87,25.63,32.27,7.6
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,90,2005,Jun,19.23,39.25,33.98,53.9
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,91,2005,Jul,25.68,72.84,30.17,175.6
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.52,,92,2005,Aug,23.87,59.12,31.41,52.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,93,2005,Sep,23.68,70.43,28.78,146.7
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,94,2005,Oct,16.3,55.35,25.07,0
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.18,,95,2005,Nov,9.75,50.38,19.51,0.8
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,96,2005,Dec,6.07,59.71,13.68,0
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.46,,97,2006,Jan,6.13,56.57,13.98,2.3
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,98,2006,Feb,11.83,52.64,21.12,0.1
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,99,2006,Mar,12.34,49.43,22.52,30.4
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,100,2006,Apr,11.34,27.41,29.58,0.6
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.73,,101,2006,May,20.08,41.41,33.13,24.8
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,102,2006,Jun,20.75,47.87,32.07,45.4
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,103,2006,Jul,25.69,69.66,30.97,135.2
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.52,,104,2006,Aug,24.71,65.57,30.55,32.1
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,105,2006,Sep,22.92,65.36,29.11,49.9
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,106,2006,Oct,17.79,56.28,26.05,3.8
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.5,,107,2006,Nov,13.53,62.46,20.21,1.2
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.55,,108,2006,Dec,9.2,63.83,15.46,5.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.45,,109,2007,Jan,6.82,62.91,13.39,0.5
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,110,2007,Feb,12.23,68.4,17.62,76
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,111,2007,Mar,13.11,54.2,21.74,40.1
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,112,2007,Apr,14.19,30.99,30.45,2
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.7,,113,2007,May,18.29,38.74,31.76,12.4
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,114,2007,Jun,22.88,52.56,32.88,88.7
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,115,2007,Jul,25.55,67.56,31.13,82
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,116,2007,Aug,25.6,70.11,30.6,87.9
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,117,2007,Sep,23.61,67.11,29.17,55.2
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,118,2007,Oct,14.05,49.63,24.45,0.1
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,119,2007,Nov,13.43,66.46,19.46,0.3
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.5,,120,2007,Dec,7.23,58.78,14.55,1.4
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,121,2008,Jan,6.8,61.46,12.93,2.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,122,2008,Feb,8.19,58.23,15.56,0.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,123,2008,Mar,13.69,46.22,25,0.6
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,124,2008,Apr,12.55,33.07,28.56,13.4
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.4,,125,2008,May,18.32,44.9,30.25,72.9
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,126,2008,Jun,24.65,67.11,30.24,193.5
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,127,2008,Jul,26.29,73.16,30.72,124.3
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.64,,128,2008,Aug,25.49,74.92,24.59,174.2
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,129,2008,Sep,23.26,69.1,28.5,114.5
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,130,2008,Oct,19.29,60.9,26.45,8.4
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",5.55,,131,2008,Nov,13.08,63.26,19.59,5.5
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.53,,132,2008,Dec,10.7,67.4,16.21,0.2
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.57,,133,2009,Jan,9.68,68.07,14.83,4.1
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,134,2009,Feb,10.42,57.61,18.29,5.9
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,135,2009,Mar,12.49,45.63,23.45,5.7
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,136,2009,Apr,11.26,26.59,29.57,11.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.22,,137,2009,May,18.28,37,32.35,17.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,138,2009,Jun,19.5,35.11,34.56,15.2
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,139,2009,Jul,25.06,61.12,32.03,106.4
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.42,,140,2009,Aug,25.49,67.91,30.91,63.8
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,141,2009,Sep,23.57,39.45,28.88,160.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,142,2009,Oct,15.58,52.12,25.07,2.5
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.6,,143,2009,Nov,12.52,60.72,19.28,1.1
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,144,2009,Dec,9.5,66.72,14.99,0.4
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.95,,145,2010,Jan,9.83,79.09,12.86,4.8
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,146,2010,Feb,11.96,64.71,18.13,10.2
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,147,2010,Mar,15.41,49.47,25.93,0.5
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,148,2010,Apr,13.04,23.5,32.76,0.8
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",4.36,,149,2010,May,16.81,28.86,34.52,5.9
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,150,2010,Jun,19.89,36.65,34.27,29.1
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,151,2010,Jul,26.03,70.55,31.03,189.3
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",1.87,,152,2010,Aug,26.26,78.48,29.53,198.5
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,153,2010,Sep,24.35,79.21,27.66,183.9
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,154,2010,Oct,9.95,85.52,11.83,1.1
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",2.37,,155,2010,Nov,8.49,78.68,11.29,3.5
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.13,,156,2010,Dec,11.16,77.01,14.81,12.8
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",2.64,,157,2011,Jan,7.29,67.89,12.32,0.7
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,158,2011,Feb,11.64,67.57,17.02,26.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,159,2011,Mar,13.93,54.02,24.81,6.9
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,160,2011,Apr,13.96,37.43,27.77,8.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.45,,161,2011,May,18.83,37.67,32.93,28.7
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,162,2011,Jun,22.95,56.69,32.01,94.4
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,163,2011,Jul,25.69,70.27,30.63,85
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.43,,164,2011,Aug,25.87,75.16,28.19,127.3
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,165,2011,Sep,24.28,71.15,29.07,133.1
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,166,2011,Oct,18.19,58.94,25.6,0
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.42,,167,2011,Nov,15.03,66.8,20.8,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-WS', 'name': 'West', 'regionid': 'IN-DL-WS'}","{'id': 'KN.A11560', 'name': 'Nangloi Pz'}",3.23,,168,2011,Dec,9.37,69.25,14.48,0.4
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.1,,169,2005,Jan,7.87,65.14,13.47,13.9
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,170,2005,Feb,9.99,59.87,16.84,35.7
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,171,2005,Mar,14.01,51.52,23.68,29.9
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,172,2005,Apr,8.44,23.84,28.6,2.7
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.45,,173,2005,May,12.87,25.63,32.27,7.6
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,174,2005,Jun,19.23,39.25,33.98,53.9
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,175,2005,Jul,25.68,72.84,30.17,175.6
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.71,,176,2005,Aug,23.87,59.12,31.41,52.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,177,2005,Sep,23.68,70.43,28.78,146.7
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,178,2005,Oct,16.3,55.35,25.07,0
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.89,,179,2005,Nov,9.75,50.38,19.51,0.8
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.78,,180,2005,Dec,6.07,59.71,13.68,0
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.96,,181,2006,Jan,6.13,56.57,13.98,2.3
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,182,2006,Feb,11.83,52.64,21.12,0.1
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,183,2006,Mar,12.34,49.43,22.52,30.4
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,184,2006,Apr,11.34,27.41,29.58,0.6
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.23,,185,2006,May,20.08,41.41,33.13,24.8
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,186,2006,Jun,20.75,47.87,32.07,45.4
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,187,2006,Jul,25.69,69.66,30.97,135.2
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.16,,188,2006,Aug,24.71,65.57,30.55,32.1
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,189,2006,Sep,22.92,65.36,29.11,49.9
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,190,2006,Oct,17.79,56.28,26.05,3.8
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.58,,191,2006,Nov,13.53,62.46,20.21,1.2
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.73,,192,2006,Dec,9.2,63.83,15.46,5.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",6.9,,193,2007,Jan,6.82,62.91,13.39,0.5
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,194,2007,Feb,12.23,68.4,17.62,76
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,195,2007,Mar,13.11,54.2,21.74,40.1
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,196,2007,Apr,14.19,30.99,30.45,2
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.39,,197,2007,May,18.29,38.74,31.76,12.4
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,198,2007,Jun,22.88,52.56,32.88,88.7
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,199,2007,Jul,25.55,67.56,31.13,82
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,200,2007,Aug,25.6,70.11,30.6,87.9
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,201,2007,Sep,23.61,67.11,29.17,55.2
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,202,2007,Oct,14.05,49.63,24.45,0.1
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,203,2007,Nov,13.43,66.46,19.46,0.3
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.14,,204,2007,Dec,7.23,58.78,14.55,1.4
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,205,2008,Jan,6.8,61.46,12.93,2.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,206,2008,Feb,8.19,58.23,15.56,0.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,207,2008,Mar,13.69,46.22,25,0.6
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,208,2008,Apr,12.55,33.07,28.56,13.4
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.4,,209,2008,May,18.32,44.9,30.25,72.9
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,210,2008,Jun,24.65,67.11,30.24,193.5
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,211,2008,Jul,26.29,73.16,30.72,124.3
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.98,,212,2008,Aug,25.49,74.92,24.59,174.2
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,213,2008,Sep,23.26,69.1,28.5,114.5
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,214,2008,Oct,19.29,60.9,26.45,8.4
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.05,,215,2008,Nov,13.08,63.26,19.59,5.5
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.81,,216,2008,Dec,10.7,67.4,16.21,0.2
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",7.9,,217,2009,Jan,9.68,68.07,14.83,4.1
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,218,2009,Feb,10.42,57.61,18.29,5.9
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,219,2009,Mar,12.49,45.63,23.45,5.7
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,220,2009,Apr,11.26,26.59,29.57,11.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.55,,221,2009,May,18.28,37,32.35,17.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,222,2009,Jun,19.5,35.11,34.56,15.2
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,223,2009,Jul,25.06,61.12,32.03,106.4
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.86,,224,2009,Aug,25.49,67.91,30.91,63.8
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,225,2009,Sep,23.57,39.45,28.88,160.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,226,2009,Oct,15.58,52.12,25.07,2.5
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.11,,227,2009,Nov,12.52,60.72,19.28,1.1
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.35,,228,2009,Dec,9.5,66.72,14.99,0.4
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.34,,229,2010,Jan,9.83,79.09,12.86,4.8
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,230,2010,Feb,11.96,64.71,18.13,10.2
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,231,2010,Mar,15.41,49.47,25.93,0.5
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,232,2010,Apr,13.04,23.5,32.76,0.8
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.82,,233,2010,May,16.81,28.86,34.52,5.9
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,234,2010,Jun,19.89,36.65,34.27,29.1
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,235,2010,Jul,26.03,70.55,31.03,189.3
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.7,,236,2010,Aug,26.26,78.48,29.53,198.5
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,237,2010,Sep,24.35,79.21,27.66,183.9
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,238,2010,Oct,9.95,85.52,11.83,1.1
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.48,,239,2010,Nov,8.49,78.68,11.29,3.5
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8.58,,240,2010,Dec,11.16,77.01,14.81,12.8
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",8,,,2011,Jan,7.29,67.89,12.32,0.7
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Feb,11.64,67.57,17.02,26.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Mar,13.93,54.02,24.81,6.9
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Apr,13.96,37.43,27.77,8.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",9.26,,,2011,May,18.83,37.67,32.93,28.7
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Jun,22.95,56.69,32.01,94.4
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Jul,25.69,70.27,30.63,85
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.9,,,2011,Aug,25.87,75.16,28.19,127.3
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Sep,24.28,71.15,29.07,133.1
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Oct,18.19,58.94,25.6,0
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",12,,,2011,Nov,15.03,66.8,20.8,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-CE', 'name': 'Central', 'regionid': 'IN-DL-CE'}","{'id': 'KN.A12663', 'name': 'Parsidharamsala Dw'}",10.04,,,2011,Dec,9.37,69.25,14.48,0.4
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.6,,,2005,Jan,7.87,65.14,13.47,13.9
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.89,,,2005,Feb,9.99,59.87,16.84,35.7
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.89,,,2005,Mar,14.01,51.52,23.68,29.9
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.89,,,2005,Apr,8.44,23.84,28.6,2.7
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.35,,,2005,May,12.87,25.63,32.27,7.6
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.13,,,2005,Jun,19.23,39.25,33.98,53.9
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.13,,,2005,Jul,25.68,72.84,30.17,175.6
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.27,,,2005,Aug,23.87,59.12,31.41,52.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.83,,,2005,Sep,23.68,70.43,28.78,146.7
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.89,,,2005,Oct,16.3,55.35,25.07,0
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.95,,,2005,Nov,9.75,50.38,19.51,0.8
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.89,,,2005,Dec,6.07,59.71,13.68,0
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.3,,,2006,Jan,6.13,56.57,13.98,2.3
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Feb,11.83,52.64,21.12,0.1
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Mar,12.34,49.43,22.52,30.4
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Apr,11.34,27.41,29.58,0.6
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.78,,,2006,May,20.08,41.41,33.13,24.8
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Jun,20.75,47.87,32.07,45.4
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Jul,25.69,69.66,30.97,135.2
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",8.06,,,2006,Aug,24.71,65.57,30.55,32.1
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Sep,22.92,65.36,29.11,49.9
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Oct,17.79,56.28,26.05,3.8
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.92,,,2006,Nov,13.53,62.46,20.21,1.2
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",9.26,,,2006,Dec,9.2,63.83,15.46,5.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.09,,,2007,Jan,6.82,62.91,13.39,0.5
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Feb,12.23,68.4,17.62,76
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Mar,13.11,54.2,21.74,40.1
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Apr,14.19,30.99,30.45,2
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.4,,,2007,May,18.29,38.74,31.76,12.4
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Jun,22.88,52.56,32.88,88.7
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Jul,25.55,67.56,31.13,82
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Aug,25.6,70.11,30.6,87.9
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Sep,23.61,67.11,29.17,55.2
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Oct,14.05,49.63,24.45,0.1
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Nov,13.43,66.46,19.46,0.3
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.24,,,2007,Dec,7.23,58.78,14.55,1.4
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Jan,6.8,61.46,12.93,2.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Feb,8.19,58.23,15.56,0.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Mar,13.69,46.22,25,0.6
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Apr,12.55,33.07,28.56,13.4
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.78,,,2008,May,18.32,44.9,30.25,72.9
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Jun,24.65,67.11,30.24,193.5
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Jul,26.29,73.16,30.72,124.3
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.54,,,2008,Aug,25.49,74.92,24.59,174.2
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Sep,23.26,69.1,28.5,114.5
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Oct,19.29,60.9,26.45,8.4
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.1,,,2008,Nov,13.08,63.26,19.59,5.5
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.14,,,2008,Dec,10.7,67.4,16.21,0.2
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.3,,,2009,Jan,9.68,68.07,14.83,4.1
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Feb,10.42,57.61,18.29,5.9
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Mar,12.49,45.63,23.45,5.7
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Apr,11.26,26.59,29.57,11.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",12.26,,,2009,May,18.28,37,32.35,17.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Jun,19.5,35.11,34.56,15.2
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Jul,25.06,61.12,32.03,106.4
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",12.79,,,2009,Aug,25.49,67.91,30.91,63.8
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Sep,23.57,39.45,28.88,160.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Oct,15.58,52.12,25.07,2.5
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.48,,,2009,Nov,12.52,60.72,19.28,1.1
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.45,,,2009,Dec,9.5,66.72,14.99,0.4
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.87,,,2010,Jan,9.83,79.09,12.86,4.8
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Feb,11.96,64.71,18.13,10.2
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Mar,15.41,49.47,25.93,0.5
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Apr,13.04,23.5,32.76,0.8
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",12.28,,,2010,May,16.81,28.86,34.52,5.9
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Jun,19.89,36.65,34.27,29.1
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Jul,26.03,70.55,31.03,189.3
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Aug,26.26,78.48,29.53,198.5
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Sep,24.35,79.21,27.66,183.9
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Oct,9.95,85.52,11.83,1.1
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.02,,,2010,Nov,8.49,78.68,11.29,3.5
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.05,,,2010,Dec,11.16,77.01,14.81,12.8
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.02,,,2011,Jan,7.29,67.89,12.32,0.7
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Feb,11.64,67.57,17.02,26.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Mar,13.93,54.02,24.81,6.9
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Apr,13.96,37.43,27.77,8.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",10.97,,,2011,May,18.83,37.67,32.93,28.7
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Jun,22.95,56.69,32.01,94.4
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Jul,25.69,70.27,30.63,85
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.68,,,2011,Aug,25.87,75.16,28.19,127.3
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Sep,24.28,71.15,29.07,133.1
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Oct,18.19,58.94,25.6,0
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11.35,,,2011,Nov,15.03,66.8,20.8,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-ND', 'name': 'New Delhi', 'regionid': 'IN-DL-ND'}","{'id': 'KN.A13308', 'name': 'Presidents Estate-2'}",11,,,2011,Dec,9.37,69.25,14.48,0.4
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.7,,,2005,Jan,7.87,65.14,13.47,13.9
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Feb,9.99,59.87,16.84,35.7
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Mar,14.01,51.52,23.68,29.9
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Apr,8.44,23.84,28.6,2.7
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.25,,,2005,May,12.87,25.63,32.27,7.6
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Jun,19.23,39.25,33.98,53.9
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Jul,25.68,72.84,30.17,175.6
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.26,,,2005,Aug,23.87,59.12,31.41,52.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Sep,23.68,70.43,28.78,146.7
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Oct,16.3,55.35,25.07,0
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.03,,,2005,Nov,9.75,50.38,19.51,0.8
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.81,,,2005,Dec,6.07,59.71,13.68,0
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.37,,,2006,Jan,6.13,56.57,13.98,2.3
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Feb,11.83,52.64,21.12,0.1
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Mar,12.34,49.43,22.52,30.4
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Apr,11.34,27.41,29.58,0.6
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.7,,,2006,May,20.08,41.41,33.13,24.8
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Jun,20.75,47.87,32.07,45.4
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Jul,25.69,69.66,30.97,135.2
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.33,,,2006,Aug,24.71,65.57,30.55,32.1
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Sep,22.92,65.36,29.11,49.9
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Oct,17.79,56.28,26.05,3.8
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.36,,,2006,Nov,13.53,62.46,20.21,1.2
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.44,,,2006,Dec,9.2,63.83,15.46,5.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.98,,,2007,Jan,6.82,62.91,13.39,0.5
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Feb,12.23,68.4,17.62,76
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Mar,13.11,54.2,21.74,40.1
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Apr,14.19,30.99,30.45,2
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.05,,,2007,May,18.29,38.74,31.76,12.4
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Jun,22.88,52.56,32.88,88.7
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Jul,25.55,67.56,31.13,82
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Aug,25.6,70.11,30.6,87.9
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Sep,23.61,67.11,29.17,55.2
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Oct,14.05,49.63,24.45,0.1
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Nov,13.43,66.46,19.46,0.3
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",9.01,,,2007,Dec,7.23,58.78,14.55,1.4
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Jan,6.8,61.46,12.93,2.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Feb,8.19,58.23,15.56,0.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Mar,13.69,46.22,25,0.6
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Apr,12.55,33.07,28.56,13.4
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.67,,,2008,May,18.32,44.9,30.25,72.9
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Jun,24.65,67.11,30.24,193.5
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Jul,26.29,73.16,30.72,124.3
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.96,,,2008,Aug,25.49,74.92,24.59,174.2
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Sep,23.26,69.1,28.5,114.5
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Oct,19.29,60.9,26.45,8.4
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.61,,,2008,Nov,13.08,63.26,19.59,5.5
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.08,,,2008,Dec,10.7,67.4,16.21,0.2
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.82,,,2009,Jan,9.68,68.07,14.83,4.1
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Feb,10.42,57.61,18.29,5.9
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Mar,12.49,45.63,23.45,5.7
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Apr,11.26,26.59,29.57,11.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.05,,,2009,May,18.28,37,32.35,17.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Jun,19.5,35.11,34.56,15.2
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Jul,25.06,61.12,32.03,106.4
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Aug,25.49,67.91,30.91,63.8
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Sep,23.57,39.45,28.88,160.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Oct,15.58,52.12,25.07,2.5
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.33,,,2009,Nov,12.52,60.72,19.28,1.1
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.73,,,2009,Dec,9.5,66.72,14.99,0.4
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.24,,,2010,Jan,9.83,79.09,12.86,4.8
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Feb,11.96,64.71,18.13,10.2
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Mar,15.41,49.47,25.93,0.5
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Apr,13.04,23.5,32.76,0.8
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",8.4,,,2010,May,16.81,28.86,34.52,5.9
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Jun,19.89,36.65,34.27,29.1
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Jul,26.03,70.55,31.03,189.3
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.78,,,2010,Aug,26.26,78.48,29.53,198.5
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Sep,24.35,79.21,27.66,183.9
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Oct,9.95,85.52,11.83,1.1
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.5,,,2010,Nov,8.49,78.68,11.29,3.5
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",7.48,,,2010,Dec,11.16,77.01,14.81,12.8
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.4,,,2011,Jan,7.29,67.89,12.32,0.7
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Feb,11.64,67.57,17.02,26.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Mar,13.93,54.02,24.81,6.9
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Apr,13.96,37.43,27.77,8.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.96,,,2011,May,18.83,37.67,32.93,28.7
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Jun,22.95,56.69,32.01,94.4
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Jul,25.69,70.27,30.63,85
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.89,,,2011,Aug,25.87,75.16,28.19,127.3
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Sep,24.28,71.15,29.07,133.1
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Oct,18.19,58.94,25.6,0
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.89,,,2011,Nov,15.03,66.8,20.8,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-ST', 'name': 'South', 'regionid': 'IN-DL-ST'}","{'id': 'KN.A15684', 'name': 'Sundar Nursery Pz'}",6.78,,,2011,Dec,9.37,69.25,14.48,0.4
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.63,,,2005,Jan,7.87,65.14,13.47,13.9
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Feb,9.99,59.87,16.84,35.7
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Mar,14.01,51.52,23.68,29.9
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Apr,8.44,23.84,28.6,2.7
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.42,,,2005,May,12.87,25.63,32.27,7.6
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Jun,19.23,39.25,33.98,53.9
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Jul,25.68,72.84,30.17,175.6
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",5.83,,,2005,Aug,23.87,59.12,31.41,52.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Sep,23.68,70.43,28.78,146.7
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Oct,16.3,55.35,25.07,0
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6,,,2005,Nov,9.75,50.38,19.51,0.8
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.22,,,2005,Dec,6.07,59.71,13.68,0
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.19,,,2006,Jan,6.13,56.57,13.98,2.3
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Feb,11.83,52.64,21.12,0.1
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Mar,12.34,49.43,22.52,30.4
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Apr,11.34,27.41,29.58,0.6
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.9,,,2006,May,20.08,41.41,33.13,24.8
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Jun,20.75,47.87,32.07,45.4
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Jul,25.69,69.66,30.97,135.2
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.88,,,2006,Aug,24.71,65.57,30.55,32.1
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Sep,22.92,65.36,29.11,49.9
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Oct,17.79,56.28,26.05,3.8
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.87,,,2006,Nov,13.53,62.46,20.21,1.2
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.71,,,2006,Dec,9.2,63.83,15.46,5.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.74,,,2007,Jan,6.82,62.91,13.39,0.5
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Feb,12.23,68.4,17.62,76
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Mar,13.11,54.2,21.74,40.1
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Apr,14.19,30.99,30.45,2
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.1,,,2007,May,18.29,38.74,31.76,12.4
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Jun,22.88,52.56,32.88,88.7
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Jul,25.55,67.56,31.13,82
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6,,,2007,Aug,25.6,70.11,30.6,87.9
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Sep,23.61,67.11,29.17,55.2
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Oct,14.05,49.63,24.45,0.1
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Nov,13.43,66.46,19.46,0.3
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",6.61,,,2007,Dec,7.23,58.78,14.55,1.4
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7,,,2008,Jan,6.8,61.46,12.93,2.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Feb,8.19,58.23,15.56,0.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Mar,13.69,46.22,25,0.6
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Apr,12.55,33.07,28.56,13.4
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.6,,,2008,May,18.32,44.9,30.25,72.9
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Jun,24.65,67.11,30.24,193.5
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Jul,26.29,73.16,30.72,124.3
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Aug,25.49,74.92,24.59,174.2
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Sep,23.26,69.1,28.5,114.5
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Oct,19.29,60.9,26.45,8.4
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Nov,13.08,63.26,19.59,5.5
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.3,,,2008,Dec,10.7,67.4,16.21,0.2
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.08,,,2009,Jan,9.68,68.07,14.83,4.1
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Feb,10.42,57.61,18.29,5.9
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Mar,12.49,45.63,23.45,5.7
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Apr,11.26,26.59,29.57,11.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.26,,,2009,May,18.28,37,32.35,17.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Jun,19.5,35.11,34.56,15.2
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Jul,25.06,61.12,32.03,106.4
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.9,,,2009,Aug,25.49,67.91,30.91,63.8
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Sep,23.57,39.45,28.88,160.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Oct,15.58,52.12,25.07,2.5
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.43,,,2009,Nov,12.52,60.72,19.28,1.1
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.41,,,2009,Dec,9.5,66.72,14.99,0.4
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.9,,,2010,Jan,9.83,79.09,12.86,4.8
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Feb,11.96,64.71,18.13,10.2
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Mar,15.41,49.47,25.93,0.5
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Apr,13.04,23.5,32.76,0.8
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.29,,,2010,May,16.81,28.86,34.52,5.9
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Jun,19.89,36.65,34.27,29.1
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Jul,26.03,70.55,31.03,189.3
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.33,,,2010,Aug,26.26,78.48,29.53,198.5
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Sep,24.35,79.21,27.66,183.9
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Oct,9.95,85.52,11.83,1.1
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.32,,,2010,Nov,8.49,78.68,11.29,3.5
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",8.21,,,2010,Dec,11.16,77.01,14.81,12.8
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Jan,7.29,67.89,12.32,0.7
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Feb,11.64,67.57,17.02,26.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Mar,13.93,54.02,24.81,6.9
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Apr,13.96,37.43,27.77,8.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.7,,,2011,May,18.83,37.67,32.93,28.7
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Jun,22.95,56.69,32.01,94.4
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Jul,25.69,70.27,30.63,85
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.67,,,2011,Aug,25.87,75.16,28.19,127.3
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Sep,24.28,71.15,29.07,133.1
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Oct,18.19,58.94,25.6,0
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.8,,,2011,Nov,15.03,66.8,20.8,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-ET', 'name': 'East', 'regionid': 'IN-DL-ET'}","{'id': 'KN.A2978', 'name': 'Cbd Shahdara Pz'}",7.56,,,2011,Dec,9.37,69.25,14.48,0.4
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",44.5,,,,,,,,
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,Jan,7.87,65.14,13.47,13.9
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,Feb,9.99,59.87,16.84,35.7
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,Mar,14.01,51.52,23.68,29.9
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.7,,,2005,Apr,8.44,23.84,28.6,2.7
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,May,12.87,25.63,32.27,7.6
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,Jun,19.23,39.25,33.98,53.9
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",50.29,,,2005,Jul,25.68,72.84,30.17,175.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,Aug,23.87,59.12,31.41,52.6
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,Sep,23.68,70.43,28.78,146.7
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",53.96,,,2005,Oct,16.3,55.35,25.07,0
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",49.61,,,2005,Nov,9.75,50.38,19.51,0.8
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",55.62,,,2005,Dec,6.07,59.71,13.68,0
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.15,,,2006,Jan,6.13,56.57,13.98,2.3
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.15,,,2006,Feb,11.83,52.64,21.12,0.1
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.15,,,2006,Mar,12.34,49.43,22.52,30.4
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.5,,,2006,Apr,11.34,27.41,29.58,0.6
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",55.8,,,2006,May,20.08,41.41,33.13,24.8
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",54.78,,,2006,Jun,20.75,47.87,32.07,45.4
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.7,,,2006,Jul,25.69,69.66,30.97,135.2
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",53.6,,,2006,Aug,24.71,65.57,30.55,32.1
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",57.3,,,2006,Sep,22.92,65.36,29.11,49.9
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.5,,,2006,Oct,17.79,56.28,26.05,3.8
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.6,,,2006,Nov,13.53,62.46,20.21,1.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.7,,,2006,Dec,9.2,63.83,15.46,5.2
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.89,,,2007,Jan,6.82,62.91,13.39,0.5
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.2,,,2007,Feb,12.23,68.4,17.62,76
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,Mar,13.11,54.2,21.74,40.1
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.45,,,2007,Apr,14.19,30.99,30.45,2
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,May,18.29,38.74,31.76,12.4
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,Jun,22.88,52.56,32.88,88.7
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,Jul,25.55,67.56,31.13,82
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,Aug,25.6,70.11,30.6,87.9
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,Sep,23.61,67.11,29.17,55.2
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,Oct,14.05,49.63,24.45,0.1
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.18,,,2007,Nov,13.43,66.46,19.46,0.3
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2007,Dec,7.23,58.78,14.55,1.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Jan,6.8,61.46,12.93,2.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Feb,8.19,58.23,15.56,0.4
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Mar,13.69,46.22,25,0.6
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Apr,12.55,33.07,28.56,13.4
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,May,18.32,44.9,30.25,72.9
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Jun,24.65,67.11,30.24,193.5
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Jul,26.29,73.16,30.72,124.3
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Aug,25.49,74.92,24.59,174.2
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Sep,23.26,69.1,28.5,114.5
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Oct,19.29,60.9,26.45,8.4
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2008,Nov,13.08,63.26,19.59,5.5
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2008,Dec,10.7,67.4,16.21,0.2
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,Jan,9.68,68.07,14.83,4.1
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,Feb,10.42,57.61,18.29,5.9
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,Mar,12.49,45.63,23.45,5.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2009,Apr,11.26,26.59,29.57,11.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,May,18.28,37,32.35,17.7
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,Jun,19.5,35.11,34.56,15.2
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.5,,,2009,Jul,25.06,61.12,32.03,106.4
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,Aug,25.49,67.91,30.91,63.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,Sep,23.57,39.45,28.88,160.8
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.29,,,2009,Oct,15.58,52.12,25.07,2.5
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.09,,,2009,Nov,12.52,60.72,19.28,1.1
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",59.38,,,2009,Dec,9.5,66.72,14.99,0.4
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Jan,9.83,79.09,12.86,4.8
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Feb,11.96,64.71,18.13,10.2
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Mar,15.41,49.47,25.93,0.5
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.55,,,2010,Apr,13.04,23.5,32.76,0.8
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,May,16.81,28.86,34.52,5.9
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Jun,19.89,36.65,34.27,29.1
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Jul,26.03,70.55,31.03,189.3
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Aug,26.26,78.48,29.53,198.5
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Sep,24.35,79.21,27.66,183.9
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Oct,9.95,85.52,11.83,1.1
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",58.96,,,2010,Nov,8.49,78.68,11.29,3.5
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",55.79,,,2010,Dec,11.16,77.01,14.81,12.8
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.69,,,2011,Jan,7.29,67.89,12.32,0.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.91,,,2011,Feb,11.64,67.57,17.02,26.7
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.91,,,2011,Mar,13.93,54.02,24.81,6.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",57.53,,,2011,Apr,13.96,37.43,27.77,8.9
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.91,,,2011,May,18.83,37.67,32.93,28.7
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.91,,,2011,Jun,22.95,56.69,32.01,94.4
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",57.07,,,2011,Jul,25.69,70.27,30.63,85
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.91,,,2011,Aug,25.87,75.16,28.19,127.3
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.91,,,2011,Sep,24.28,71.15,29.07,133.1
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",57.56,,,2011,Oct,18.19,58.94,25.6,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-SW', 'name': 'South West', 'regionid': 'IN-DL-SW'}","{'id': 'KN.A5290', 'name': 'Ghittorni Pz'}",56.91,,,2011,Nov,15.03,66.8,20.8,0
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.62,,,2011,Dec,9.37,69.25,14.48,0.4
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,Jan,7.87,65.14,13.47,13.9
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,Feb,9.99,59.87,16.84,35.7
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,Mar,14.01,51.52,23.68,29.9
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.23,,,2005,Apr,8.44,23.84,28.6,2.7
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,May,12.87,25.63,32.27,7.6
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,Jun,19.23,39.25,33.98,53.9
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.94,,,2005,Jul,25.68,72.84,30.17,175.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,Aug,23.87,59.12,31.41,52.6
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,Sep,23.68,70.43,28.78,146.7
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.16,,,2005,Oct,16.3,55.35,25.07,0
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.98,,,2005,Nov,9.75,50.38,19.51,0.8
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",4.73,,,2005,Dec,6.07,59.71,13.68,0
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,Jan,6.13,56.57,13.98,2.3
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,Feb,11.83,52.64,21.12,0.1
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,Mar,12.34,49.43,22.52,30.4
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.81,,,2006,Apr,11.34,27.41,29.58,0.6
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,May,20.08,41.41,33.13,24.8
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,Jun,20.75,47.87,32.07,45.4
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2006,Jul,25.69,69.66,30.97,135.2
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,Aug,24.71,65.57,30.55,32.1
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,Sep,22.92,65.36,29.11,49.9
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.01,,,2006,Oct,17.79,56.28,26.05,3.8
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2006,Nov,13.53,62.46,20.21,1.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.01,,,2006,Dec,9.2,63.83,15.46,5.2
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Jan,6.82,62.91,13.39,0.5
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Feb,12.23,68.4,17.62,76
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Mar,13.11,54.2,21.74,40.1
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.35,,,2007,Apr,14.19,30.99,30.45,2
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,May,18.29,38.74,31.76,12.4
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Jun,22.88,52.56,32.88,88.7
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Jul,25.55,67.56,31.13,82
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Aug,25.6,70.11,30.6,87.9
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Sep,23.61,67.11,29.17,55.2
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Oct,14.05,49.63,24.45,0.1
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.18,,,2007,Nov,13.43,66.46,19.46,0.3
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.42,,,2007,Dec,7.23,58.78,14.55,1.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Jan,6.8,61.46,12.93,2.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Feb,8.19,58.23,15.56,0.4
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Mar,13.69,46.22,25,0.6
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.35,,,2008,Apr,12.55,33.07,28.56,13.4
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,May,18.32,44.9,30.25,72.9
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Jun,24.65,67.11,30.24,193.5
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Jul,26.29,73.16,30.72,124.3
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Aug,25.49,74.92,24.59,174.2
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Sep,23.26,69.1,28.5,114.5
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Oct,19.29,60.9,26.45,8.4
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.38,,,2008,Nov,13.08,63.26,19.59,5.5
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.85,,,2008,Dec,10.7,67.4,16.21,0.2
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,Jan,9.68,68.07,14.83,4.1
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,Feb,10.42,57.61,18.29,5.9
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,Mar,12.49,45.63,23.45,5.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.55,,,2009,Apr,11.26,26.59,29.57,11.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,May,18.28,37,32.35,17.7
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,Jun,19.5,35.11,34.56,15.2
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.05,,,2009,Jul,25.06,61.12,32.03,106.4
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,Aug,25.49,67.91,30.91,63.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,Sep,23.57,39.45,28.88,160.8
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.7,,,2009,Oct,15.58,52.12,25.07,2.5
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.03,,,2009,Nov,12.52,60.72,19.28,1.1
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",6.34,,,2009,Dec,9.5,66.72,14.99,0.4
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Jan,9.83,79.09,12.86,4.8
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Feb,11.96,64.71,18.13,10.2
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Mar,15.41,49.47,25.93,0.5
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.3,,,2010,Apr,13.04,23.5,32.76,0.8
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,May,16.81,28.86,34.52,5.9
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Jun,19.89,36.65,34.27,29.1
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Jul,26.03,70.55,31.03,189.3
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Aug,26.26,78.48,29.53,198.5
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Sep,24.35,79.21,27.66,183.9
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2010,Oct,9.95,85.52,11.83,1.1
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.76,,,2010,Nov,8.49,78.68,11.29,3.5
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.43,,,2010,Dec,11.16,77.01,14.81,12.8
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,Jan,7.29,67.89,12.32,0.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,Feb,11.64,67.57,17.02,26.7
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,Mar,13.93,54.02,24.81,6.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.64,,,2011,Apr,13.96,37.43,27.77,8.9
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,May,18.83,37.67,32.93,28.7
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,Jun,22.95,56.69,32.01,94.4
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.61,,,2011,Jul,25.69,70.27,30.63,85
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,Aug,25.87,75.16,28.19,127.3
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,Sep,24.28,71.15,29.07,133.1
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.69,,,2011,Oct,18.19,58.94,25.6,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-NE', 'name': 'North East', 'regionid': 'IN-DL-NE'}","{'id': 'KN.A5432', 'name': 'Gokulpuri W Pz'}",5.59,,,2011,Nov,15.03,66.8,20.8,0
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.9,,,2011,Dec,9.37,69.25,14.48,0.4
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,Jan,7.87,65.14,13.47,13.9
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,Feb,9.99,59.87,16.84,35.7
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,Mar,14.01,51.52,23.68,29.9
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.3,,,2005,Apr,8.44,23.84,28.6,2.7
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,May,12.87,25.63,32.27,7.6
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,Jun,19.23,39.25,33.98,53.9
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.42,,,2005,Jul,25.68,72.84,30.17,175.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,Aug,23.87,59.12,31.41,52.6
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,Sep,23.68,70.43,28.78,146.7
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.73,,,2005,Oct,16.3,55.35,25.07,0
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.33,,,2005,Nov,9.75,50.38,19.51,0.8
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.14,,,2005,Dec,6.07,59.71,13.68,0
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,Jan,6.13,56.57,13.98,2.3
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,Feb,11.83,52.64,21.12,0.1
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,Mar,12.34,49.43,22.52,30.4
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.9,,,2006,Apr,11.34,27.41,29.58,0.6
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,May,20.08,41.41,33.13,24.8
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,Jun,20.75,47.87,32.07,45.4
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.58,,,2006,Jul,25.69,69.66,30.97,135.2
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,Aug,24.71,65.57,30.55,32.1
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,Sep,22.92,65.36,29.11,49.9
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.92,,,2006,Oct,17.79,56.28,26.05,3.8
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.13,,,2006,Nov,13.53,62.46,20.21,1.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4,,,2006,Dec,9.2,63.83,15.46,5.2
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Jan,6.82,62.91,13.39,0.5
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Feb,12.23,68.4,17.62,76
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Mar,13.11,54.2,21.74,40.1
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.95,,,2007,Apr,14.19,30.99,30.45,2
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,May,18.29,38.74,31.76,12.4
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Jun,22.88,52.56,32.88,88.7
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Jul,25.55,67.56,31.13,82
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Aug,25.6,70.11,30.6,87.9
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Sep,23.61,67.11,29.17,55.2
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Oct,14.05,49.63,24.45,0.1
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.47,,,2007,Nov,13.43,66.46,19.46,0.3
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.8,,,2007,Dec,7.23,58.78,14.55,1.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Jan,6.8,61.46,12.93,2.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Feb,8.19,58.23,15.56,0.4
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Mar,13.69,46.22,25,0.6
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Apr,12.55,33.07,28.56,13.4
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,May,18.32,44.9,30.25,72.9
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Jun,24.65,67.11,30.24,193.5
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",2.5,,,2008,Jul,26.29,73.16,30.72,124.3
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Aug,25.49,74.92,24.59,174.2
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Sep,23.26,69.1,28.5,114.5
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.78,,,2008,Oct,19.29,60.9,26.45,8.4
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",5.05,,,2008,Nov,13.08,63.26,19.59,5.5
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2008,Dec,10.7,67.4,16.21,0.2
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,Jan,9.68,68.07,14.83,4.1
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,Feb,10.42,57.61,18.29,5.9
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,Mar,12.49,45.63,23.45,5.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,Apr,11.26,26.59,29.57,11.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,May,18.28,37,32.35,17.7
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,Jun,19.5,35.11,34.56,15.2
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.59,,,2009,Jul,25.06,61.12,32.03,106.4
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,Aug,25.49,67.91,30.91,63.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.71,,,2009,Sep,23.57,39.45,28.88,160.8
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",2.36,,,2009,Oct,15.58,52.12,25.07,2.5
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.2,,,2009,Nov,12.52,60.72,19.28,1.1
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",2.93,,,2009,Dec,9.5,66.72,14.99,0.4
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Jan,9.83,79.09,12.86,4.8
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Feb,11.96,64.71,18.13,10.2
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Mar,15.41,49.47,25.93,0.5
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Apr,13.04,23.5,32.76,0.8
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,May,16.81,28.86,34.52,5.9
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Jun,19.89,36.65,34.27,29.1
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Jul,26.03,70.55,31.03,189.3
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Aug,26.26,78.48,29.53,198.5
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",3.03,,,2010,Sep,24.35,79.21,27.66,183.9
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",1.78,,,2010,Oct,9.95,85.52,11.83,1.1
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.4,,,2010,Nov,8.49,78.68,11.29,3.5
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",2.1,,,2010,Dec,11.16,77.01,14.81,12.8
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,Jan,7.29,67.89,12.32,0.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,Feb,11.64,67.57,17.02,26.7
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,Mar,13.93,54.02,24.81,6.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",5.2,,,2011,Apr,13.96,37.43,27.77,8.9
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,May,18.83,37.67,32.93,28.7
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,Jun,22.95,56.69,32.01,94.4
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.55,,,2011,Jul,25.69,70.27,30.63,85
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,Aug,25.87,75.16,28.19,127.3
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,Sep,24.28,71.15,29.07,133.1
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",5.16,,,2011,Oct,18.19,58.94,25.6,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-NW', 'name': 'North West', 'regionid': 'IN-DL-NW'}","{'id': 'KN.A5956', 'name': 'Hareoli Dw'}",4.25,,,2011,Nov,15.03,66.8,20.8,0
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.22,,,2011,Dec,9.37,69.25,14.48,0.4
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,Jan,7.87,65.14,13.47,13.9
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,Feb,9.99,59.87,16.84,35.7
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,Mar,14.01,51.52,23.68,29.9
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.815,,,2005,Apr,8.44,23.84,28.6,2.7
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,May,12.87,25.63,32.27,7.6
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,Jun,19.23,39.25,33.98,53.9
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.84,,,2005,Jul,25.68,72.84,30.17,175.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,Aug,23.87,59.12,31.41,52.6
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,Sep,23.68,70.43,28.78,146.7
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.7,,,2005,Oct,16.3,55.35,25.07,0
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2005,Nov,9.75,50.38,19.51,0.8
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.22,,,2005,Dec,6.07,59.71,13.68,0
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,Jan,6.13,56.57,13.98,2.3
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,Feb,11.83,52.64,21.12,0.1
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,Mar,12.34,49.43,22.52,30.4
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.815,,,2006,Apr,11.34,27.41,29.58,0.6
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,May,20.08,41.41,33.13,24.8
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,Jun,20.75,47.87,32.07,45.4
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.84,,,2006,Jul,25.69,69.66,30.97,135.2
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,Aug,24.71,65.57,30.55,32.1
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,Sep,22.92,65.36,29.11,49.9
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.7,,,2006,Oct,17.79,56.28,26.05,3.8
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2006,Nov,13.53,62.46,20.21,1.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.22,,,2006,Dec,9.2,63.83,15.46,5.2
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,Jan,6.82,62.91,13.39,0.5
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,Feb,12.23,68.4,17.62,76
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,Mar,13.11,54.2,21.74,40.1
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.815,,,2007,Apr,14.19,30.99,30.45,2
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,May,18.29,38.74,31.76,12.4
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,Jun,22.88,52.56,32.88,88.7
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.84,,,2007,Jul,25.55,67.56,31.13,82
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,Aug,25.6,70.11,30.6,87.9
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,Sep,23.61,67.11,29.17,55.2
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.7,,,2007,Oct,14.05,49.63,24.45,0.1
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.2,,,2007,Nov,13.43,66.46,19.46,0.3
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.48,,,2007,Dec,7.23,58.78,14.55,1.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,Jan,6.8,61.46,12.93,2.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,Feb,8.19,58.23,15.56,0.4
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,Mar,13.69,46.22,25,0.6
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.62,,,2008,Apr,12.55,33.07,28.56,13.4
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,May,18.32,44.9,30.25,72.9
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,Jun,24.65,67.11,30.24,193.5
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.73,,,2008,Jul,26.29,73.16,30.72,124.3
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,Aug,25.49,74.92,24.59,174.2
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,Sep,23.26,69.1,28.5,114.5
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2008,Oct,19.29,60.9,26.45,8.4
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.26,,,2008,Nov,13.08,63.26,19.59,5.5
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.02,,,2008,Dec,10.7,67.4,16.21,0.2
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,Jan,9.68,68.07,14.83,4.1
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,Feb,10.42,57.61,18.29,5.9
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,Mar,12.49,45.63,23.45,5.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.95,,,2009,Apr,11.26,26.59,29.57,11.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,May,18.28,37,32.35,17.7
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,Jun,19.5,35.11,34.56,15.2
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.32,,,2009,Jul,25.06,61.12,32.03,106.4
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,Aug,25.49,67.91,30.91,63.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,Sep,23.57,39.45,28.88,160.8
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.69,,,2009,Oct,15.58,52.12,25.07,2.5
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.24,,,2009,Nov,12.52,60.72,19.28,1.1
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.89,,,2009,Dec,9.5,66.72,14.99,0.4
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.71,,,2010,Jan,9.83,79.09,12.86,4.8
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.71,,,2010,Feb,11.96,64.71,18.13,10.2
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.71,,,2010,Mar,15.41,49.47,25.93,0.5
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",3.17,,,2010,Apr,13.04,23.5,32.76,0.8
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",3.17,,,2010,May,16.81,28.86,34.52,5.9
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",3.2,,,2010,Jun,19.89,36.65,34.27,29.1
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.42,,,2010,Jul,26.03,70.55,31.03,189.3
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.71,,,2010,Aug,26.26,78.48,29.53,198.5
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.71,,,2010,Sep,24.35,79.21,27.66,183.9
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.45,,,2010,Oct,9.95,85.52,11.83,1.1
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.71,,,2010,Nov,8.49,78.68,11.29,3.5
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.52,,,2010,Dec,11.16,77.01,14.81,12.8
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,Jan,7.29,67.89,12.32,0.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,Feb,11.64,67.57,17.02,26.7
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,Mar,13.93,54.02,24.81,6.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",2.52,,,2011,Apr,13.96,37.43,27.77,8.9
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,May,18.83,37.67,32.93,28.7
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,Jun,22.95,56.69,32.01,94.4
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",0.92,,,2011,Jul,25.69,70.27,30.63,85
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,Aug,25.87,75.16,28.19,127.3
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,Sep,24.28,71.15,29.07,133.1
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.44,,,2011,Oct,18.19,58.94,25.6,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-D+G507L-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A6514', 'name': 'Jagatpur Pz-1'}",1.6,,,2011,Nov,15.03,66.8,20.8,0
+01-01-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",2.95,,,2011,Dec,9.37,69.25,14.48,0.4
+01-02-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,Jan,7.87,65.14,13.47,13.9
+01-03-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,Feb,9.99,59.87,16.84,35.7
+01-04-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,Mar,14.01,51.52,23.68,29.9
+01-05-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.6,,,2005,Apr,8.44,23.84,28.6,2.7
+01-06-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,May,12.87,25.63,32.27,7.6
+01-07-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,Jun,19.23,39.25,33.98,53.9
+01-08-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.7,,,2005,Jul,25.68,72.84,30.17,175.6
+01-09-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,Aug,23.87,59.12,31.41,52.6
+01-10-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,Sep,23.68,70.43,28.78,146.7
+01-11-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.5,,,2005,Oct,16.3,55.35,25.07,0
+01-12-2005 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2005,Nov,9.75,50.38,19.51,0.8
+01-01-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.25,,,2005,Dec,6.07,59.71,13.68,0
+01-02-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,Jan,6.13,56.57,13.98,2.3
+01-03-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,Feb,11.83,52.64,21.12,0.1
+01-04-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,Mar,12.34,49.43,22.52,30.4
+01-05-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.9,,,2006,Apr,11.34,27.41,29.58,0.6
+01-06-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,May,20.08,41.41,33.13,24.8
+01-07-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,Jun,20.75,47.87,32.07,45.4
+01-08-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.43,,,2006,Jul,25.69,69.66,30.97,135.2
+01-09-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,Aug,24.71,65.57,30.55,32.1
+01-10-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,Sep,22.92,65.36,29.11,49.9
+01-11-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",4.43,,,2006,Oct,17.79,56.28,26.05,3.8
+01-12-2006 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.75,,,2006,Nov,13.53,62.46,20.21,1.2
+01-01-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.15,,,2006,Dec,9.2,63.83,15.46,5.2
+01-02-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Jan,6.82,62.91,13.39,0.5
+01-03-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Feb,12.23,68.4,17.62,76
+01-04-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Mar,13.11,54.2,21.74,40.1
+01-05-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.37,,,2007,Apr,14.19,30.99,30.45,2
+01-06-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,May,18.29,38.74,31.76,12.4
+01-07-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Jun,22.88,52.56,32.88,88.7
+01-08-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Jul,25.55,67.56,31.13,82
+01-09-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Aug,25.6,70.11,30.6,87.9
+01-10-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Sep,23.61,67.11,29.17,55.2
+01-11-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Oct,14.05,49.63,24.45,0.1
+01-12-2007 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.26,,,2007,Nov,13.43,66.46,19.46,0.3
+01-01-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.46,,,2007,Dec,7.23,58.78,14.55,1.4
+01-02-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,Jan,6.8,61.46,12.93,2.4
+01-03-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,Feb,8.19,58.23,15.56,0.4
+01-04-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,Mar,13.69,46.22,25,0.6
+01-05-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.53,,,2008,Apr,12.55,33.07,28.56,13.4
+01-06-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,May,18.32,44.9,30.25,72.9
+01-07-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,Jun,24.65,67.11,30.24,193.5
+01-08-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.21,,,2008,Jul,26.29,73.16,30.72,124.3
+01-09-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,Aug,25.49,74.92,24.59,174.2
+01-10-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,Sep,23.26,69.1,28.5,114.5
+01-11-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.32,,,2008,Oct,19.29,60.9,26.45,8.4
+01-12-2008 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.38,,,2008,Nov,13.08,63.26,19.59,5.5
+01-01-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.77,,,2008,Dec,10.7,67.4,16.21,0.2
+01-02-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,Jan,9.68,68.07,14.83,4.1
+01-03-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,Feb,10.42,57.61,18.29,5.9
+01-04-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,Mar,12.49,45.63,23.45,5.7
+01-05-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.97,,,2009,Apr,11.26,26.59,29.57,11.7
+01-06-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,May,18.28,37,32.35,17.7
+01-07-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,Jun,19.5,35.11,34.56,15.2
+01-08-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",7,,,2009,Jul,25.06,61.12,32.03,106.4
+01-09-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,Aug,25.49,67.91,30.91,63.8
+01-10-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,Sep,23.57,39.45,28.88,160.8
+01-11-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",5.4,,,2009,Oct,15.58,52.12,25.07,2.5
+01-12-2009 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.03,,,2009,Nov,12.52,60.72,19.28,1.1
+01-01-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",7.35,,,2009,Dec,9.5,66.72,14.99,0.4
+01-02-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Jan,9.83,79.09,12.86,4.8
+01-03-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Feb,11.96,64.71,18.13,10.2
+01-04-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Mar,15.41,49.47,25.93,0.5
+01-05-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6,,,2010,Apr,13.04,23.5,32.76,0.8
+01-06-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,May,16.81,28.86,34.52,5.9
+01-07-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Jun,19.89,36.65,34.27,29.1
+01-08-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Jul,26.03,70.55,31.03,189.3
+01-09-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Aug,26.26,78.48,29.53,198.5
+01-10-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Sep,24.35,79.21,27.66,183.9
+01-11-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",4.69,,,2010,Oct,9.95,85.52,11.83,1.1
+01-12-2010 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",6.01,,,2010,Nov,8.49,78.68,11.29,3.5
+01-01-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2010,Dec,11.16,77.01,14.81,12.8
+01-02-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,Jan,7.29,67.89,12.32,0.7
+01-03-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,Feb,11.64,67.57,17.02,26.7
+01-04-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,Mar,13.93,54.02,24.81,6.9
+01-05-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",4.56,,,2011,Apr,13.96,37.43,27.77,8.9
+01-06-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,May,18.83,37.67,32.93,28.7
+01-07-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,Jun,22.95,56.69,32.01,94.4
+01-08-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",2.92,,,2011,Jul,25.69,70.27,30.63,85
+01-09-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,Aug,25.87,75.16,28.19,127.3
+01-10-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,Sep,24.28,71.15,29.07,133.1
+01-11-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",4.13,,,2011,Oct,18.19,58.94,25.6,0
+01-12-2011 00:00,b'Monthly',"{'id': 'IN-DL-NH', 'name': 'North', 'regionid': 'IN-DL-NH'}","{'id': 'KN.A8518', 'name': 'Kingsway Camp Police Ground Pz'}",3.87,,,2011,Nov,15.03,66.8,20.8,0
+,,,,,,,2011,Dec,9.37,69.25,14.48,0.4
